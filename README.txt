@@ -1,6 +1,6 @@
 Clipmanager is made by Biscuit
 GitHub: 
-https://github.com/biscuitevo
+https://github.com/biscuitevo/Clipmanager.git
 
 This is a student's project created for fun. I don't want to take responsibility for it pls.
 
