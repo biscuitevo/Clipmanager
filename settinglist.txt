@@ -1,0 +1,22 @@
+DONT CHANGE ANYTHING
+PLS USE setting.exe
+
+textsize = 10
+font = Consolas
+
+IF_YOU WANT_TO_ADD YOUR_FONT
+WRITE IT_INTO *fontlist*
+USE _ INSTEAD_OF_SPACES
+AND / AS_SEPARATORS
+WARNING: SOME_FONTS MAY_NOT_WORK
+
+fontlist = Arial/Consolas/Courier_New/Tahoma/Georgia/Verdana/Fixedsys/Monaco/Corbel/Times_New_Roman/Comic_Sans_MS/Impact/Comfortaa
+
+theme = xpnative
+
+windowsize = 450x200
+windowposition = 300+300
+
+tray_after_pasting = 1
+
+auto_run = 0
